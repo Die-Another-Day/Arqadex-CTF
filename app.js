@@ -130,7 +130,7 @@ function renderNav(){
     <div class="nav-links">
       <a href="#/events" class="nav-link ${r==='/events'?'active':''}">EVENTS</a>
       <a href="#/scoreboard/arqadex-prime-2025" class="nav-link">SCOREBOARD</a>
-      <a href="https://arqadex.pages.dev" class="nav-link" target="_blank">ARCADE</a>
+      <a href="https://arqadex.site" class="nav-link" target="_blank">ARCADE</a>
       <a href="https://build.arqadex.site" class="nav-link" target="_blank">BUILD</a>
     </div>
     <div class="nav-right">
